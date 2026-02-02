@@ -1,4 +1,4 @@
-# Abbycherono
+# Abigael cherono
  Hi, I'm Abigael
 
 Data Analyst | Business Analytics | Power BI | SQL  
