@@ -116,7 +116,10 @@ The dataset contains **anonymized pharmacy operational data** from **AGC Tenwek 
 
 ### Centre 2 Pharmacy Dashboard
 
-![Centre 2 Dashboard Preview](images/Centre%202%20dashboard_preview.png%20\(1\).png)
+Here's a preview of the **Centre 2 Dashboard**:
+
+![Centre 2 Dashboard Preview](images/Centre%202%20%20dashboard_preview.png%20(1).png)
+
 
 **Key Insights**
 
