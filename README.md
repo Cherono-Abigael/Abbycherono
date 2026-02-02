@@ -1,5 +1,5 @@
 # Abbycherono
-# 👋 Hi, I'm Abigael
+ Hi, I'm Abigael
 
 Data Analyst | Business Analytics | Power BI | SQL  
 Healthcare & Operations Analytics
