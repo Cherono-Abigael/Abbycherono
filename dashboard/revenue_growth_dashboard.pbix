@@ -1,0 +1,14 @@
+## Power BI Dashboard
+
+This Power BI file analyzes hospital revenue trends
+and department-level performance.
+
+### Key Features
+- Revenue growth KPIs
+- Department comparison
+- Monthly trend analysis
+- Interactive slicers
+
+### Tools
+- Power BI
+- DAX
