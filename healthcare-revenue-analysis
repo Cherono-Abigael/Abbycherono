@@ -1,0 +1,33 @@
+Healthcare Revenue & Growth Analysis
+
+Business Problem
+Hospital management needs to understand revenue trends and 
+identify services driving growth.
+
+Dataset
+- Source: Hospital operational data (anonymized)
+- Records: 25,000+
+- Period: 2023–2024
+
+Tools Used
+- Power BI
+- DAX
+- Excel
+
+Key Metrics
+- Revenue growth rate
+- Revenue by department
+- Monthly trends
+
+Key Insights
+- Surgical services contributed 42% of total revenue.
+- Revenue dipped in Q3 due to reduced patient volumes.
+
+Recommendations
+- Optimize scheduling for high-performing departments.
+- Investigate Q3 operational constraints.
+
+Dashboard Preview
+![Dashboard](images/dashboard_preview.png)
+
+
