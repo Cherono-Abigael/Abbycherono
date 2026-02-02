@@ -18,7 +18,7 @@ This project evaluates **drug requisition efficiency**, **supplier performance**
 * Identify drugs and vendors causing delays
 * Assess overall patient satisfaction
 
----
+
 
 ##  Dataset
 
@@ -29,7 +29,7 @@ The dataset contains **anonymized pharmacy operational data** from **AGC Tenwek 
 * **Rows:** Several thousand transactions across two pharmacy centres
 * **Privacy:** All personal identifiers removed; patient-level data anonymized
 
----
+
 
 ##  Analysis & Findings
 
@@ -59,7 +59,7 @@ The dataset contains **anonymized pharmacy operational data** from **AGC Tenwek 
 * Dependence on underperforming suppliers
 * Long delays for essential medications
 
----
+
 
 ### Centre 2 Pharmacy (Jan – Nov 2025)
 
@@ -98,9 +98,9 @@ The dataset contains **anonymized pharmacy operational data** from **AGC Tenwek 
 * Supplier performance, rather than internal processes, is the main driver of delays.
 * Larger supplier networks increase risk unless closely monitored and optimized.
 
----
 
-## 🖼Dashboard & Visualizations
+
+## Dashboard & Visualizations
 
 ### Centre 1 Pharmacy Dashboard
 
@@ -112,7 +112,7 @@ The dataset contains **anonymized pharmacy operational data** from **AGC Tenwek 
 * Outlier suppliers significantly inflate average TAT.
 * High prescription fill rates support excellent patient satisfaction.
 
----
+
 
 ### Centre 2 Pharmacy Dashboard
 
@@ -127,7 +127,7 @@ Here's a preview of the **Centre 2 Dashboard**:
 * High-risk drugs require closer procurement monitoring.
 * Operational delays negatively impact patient experience.
 
----
+
 
 ##  Business Recommendations
 
@@ -137,20 +137,20 @@ Here's a preview of the **Centre 2 Dashboard**:
 * **Early Warning Dashboards:** Automate alerts for drugs exceeding TAT thresholds.
 * **Cross-Centre Best Practices:** Apply Centre 1 operational practices to Centre 2.
 
----
 
-## 🛠 Skills & Tools Used
+
+##  Skills & Tools Used
 
 * **Tools:** Power BI, DAX, Excel, GitHub
 * **Skills:** Data cleaning, KPI analysis, supplier performance analysis, TAT monitoring, dashboard design, portfolio documentation
 
----
+
 
 ##  Disclaimer
 
 All data used in this project is fully anonymized. No patient-identifiable information is included.
 
----
+
 
 ###  Final Note
 
