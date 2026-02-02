@@ -22,7 +22,7 @@ This project evaluates **drug requisition efficiency**, **supplier performance**
 
 ##  Dataset
 
-The dataset contains **anonymized pharmacy operational data** from **AGC Tenwek Hospital**, including:
+The dataset contains **anonymized pharmacy operational data** from an **Active Hospital Setup**, including:
 
 * **Columns:** `InvestigationName`, `Results_Received_TAT_Min`, `Purchase_Order_TAT`, `GRN_Approval_TAT`, `Prescription_Fill_Rate`, `Overall_Satisfaction_Score`, `SupplierName`
 * **Period:** January – November 2025
